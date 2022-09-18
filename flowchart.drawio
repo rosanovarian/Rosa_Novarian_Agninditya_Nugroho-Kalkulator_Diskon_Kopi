@@ -28,8 +28,14 @@
                 <mxCell id="8" value="&lt;font color=&quot;#000000&quot;&gt;Harga Kopi&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
                     <mxGeometry x="140" y="320" width="120" height="60" as="geometry"/>
                 </mxCell>
+                <mxCell id="13" value="" style="edgeStyle=none;html=1;fontColor=#000000;" edge="1" parent="1" source="10" target="12">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
                 <mxCell id="10" value="&lt;font color=&quot;#000000&quot;&gt;Total harga = Harga kopi * Jumlah pesanan&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
                     <mxGeometry x="140" y="410" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="&lt;font color=&quot;#000000&quot;&gt;Total &amp;gt; 50 ribu&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="1">
+                    <mxGeometry x="155" y="520" width="90" height="90" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
