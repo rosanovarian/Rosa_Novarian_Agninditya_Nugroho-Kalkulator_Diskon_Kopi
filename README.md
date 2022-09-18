@@ -8,4 +8,4 @@ Kalkulator yang digunakan untuk menghitung total diskon yang didapatkan oleh pel
 - Pseudocode.txt
 
 Dibuat oleh :
-- 'Rosa Novarian Agninditya Nugroho - BE3152548'
+- `Rosa Novarian Agninditya Nugroho - BE3152548`
