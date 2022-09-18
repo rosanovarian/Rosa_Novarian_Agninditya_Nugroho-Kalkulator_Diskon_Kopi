@@ -6,3 +6,6 @@ Kalkulator yang digunakan untuk menghitung total diskon yang didapatkan oleh pel
 - Flowchart.drawio
 - README.md
 - Pseudocode.txt
+
+Dibuat oleh :
+- 'Rosa Novarian Agninditya Nugroho - BE3152548'
