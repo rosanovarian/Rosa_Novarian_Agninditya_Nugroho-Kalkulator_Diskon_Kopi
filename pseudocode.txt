@@ -5,3 +5,8 @@ STORE "Final Price" AS INTEGER WITH 0
 
 STORE "Total Price" WITH "AMOUNT COFFEE" TIMES "PRICE COFFEE"
 DISPLAY "TOTAL PRICE"
+
+IF "Total Price" MORE THAN "50 thousand"
+    DISPLAY "Discount 10%"
+    STORE "Final Price" TIMES "0.9"
+    DISPLAY "Final Price"
